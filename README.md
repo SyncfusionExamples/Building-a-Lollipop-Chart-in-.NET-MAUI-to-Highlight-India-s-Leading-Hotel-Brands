@@ -17,7 +17,7 @@ Syncfusion charts provide robust options for customizing [tooltips](https://help
 When creating a Lollipop Chart using a custom Syncfusion [MAUI Column Chart](https://help.syncfusion.com/maui/cartesian-charts/column), customization is key to effectively convey your data insights. The custom column series allows you to transform standard columns into visually distinct lollipop markers. By tailoring aspects such as color schemes, marker shapes, and tooltip formatting, you enhance both the chart's aesthetics and its ability to communicate with users. This customization ensures that the data stands out and is presented in a manner that is engaging and easy to interpret, thereby maximizing the chart's informational impact.
 
 After executing these code examples, we will get the output that resembles the following image.
-![Presentation_lollipop]()
+![Presentation_lollipop_chart](https://github.com/user-attachments/assets/70934ace-7121-4087-bfe4-bd674407fc28)
 
 ## Troubleshooting
 Path too long exception
